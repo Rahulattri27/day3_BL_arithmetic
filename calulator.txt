@@ -1,1 +1,7 @@
-This is calculator file
+class Calculator{
+	public static void main{}
+
+}
+
+
+
